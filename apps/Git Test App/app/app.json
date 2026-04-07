@@ -1,0 +1,13 @@
+{
+  "id": "b0925b45-ff86-4e0b-b6dc-7adbe821085a",
+  "name": "Git Test App",
+  "type": "front-end",
+  "slug": "8f68f00e-a5fe-4854-8404-0663e7395fae",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "server",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
