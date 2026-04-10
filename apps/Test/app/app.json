@@ -1,0 +1,13 @@
+{
+  "id": "4a3c4d74-97ca-49bf-ae3e-62996bceda6d",
+  "name": "Test",
+  "type": "front-end",
+  "slug": "96a147bc-005c-40c8-8107-c00141b2be12",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "IconHome2",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
