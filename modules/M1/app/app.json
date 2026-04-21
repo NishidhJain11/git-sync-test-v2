@@ -1,0 +1,13 @@
+{
+  "id": "ea997997-71fb-41ad-b611-fcf5a3ea063d",
+  "name": "M1",
+  "type": "module",
+  "slug": "412195ff-57b5-4be7-afdd-b93a4eabd1e8",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
